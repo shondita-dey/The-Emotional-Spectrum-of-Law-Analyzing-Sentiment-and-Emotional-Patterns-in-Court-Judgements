@@ -1,0 +1,1 @@
+# The-Emotional-Spectrum-of-Law-Analyzing-Sentiment-and-Emotional-Patterns-in-Court-Judgements
