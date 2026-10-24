@@ -16,3 +16,11 @@ The project involves several stages:-
 • **Visualization**: Presenting results through bar plots, boxplots, heatmaps and word clouds to make patterns in judicial tone easily interpretable
 
 • **Explainability**: Applying LIME to ensure transparency by identifying key words and phrases that drive the model’s predictions
+
+
+
+
+# LIME O/P Snippets
+
+<img width="959" height="348" alt="image" src="https://github.com/user-attachments/assets/d60c01a4-6ca1-4eba-bf7d-700bc92fef5e" />
+
